@@ -4,7 +4,7 @@ PRODUCT_PACKAGES += \
    libalsactrl \
    libmmprobe \
    #audio_policy.montblanc \
-   audio.primary.montblanc \
+   #audio.primary.montblanc \
 
 # STE Display 
 PRODUCT_PACKAGES += \
