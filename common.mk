@@ -3,8 +3,6 @@ PRODUCT_PACKAGES += \
    libasound \
    libalsactrl \
    libmmprobe \
-   #audio_policy.montblanc \
-   #audio.primary.montblanc \
 
 # STE Display 
 PRODUCT_PACKAGES += \
