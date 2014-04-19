@@ -70,6 +70,7 @@ PRODUCT_PACKAGES += \
    stercd
 
 PRODUCT_PACKAGES += \
+   libhealthd.montblanc \
    chargemode \
    dbus-daemon \
    watchdog-kicker
