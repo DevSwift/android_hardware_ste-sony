@@ -46,15 +46,6 @@ PRODUCT_PACKAGES += \
    libshmnetlnk \
    libphonet
 
-# cspsa
-PRODUCT_PACKAGES += \
-   cspsa-server \
-   libcspsa \
-   cspsa.conf \
-   cspsa-cmd \
-   libcspsa-core \
-   libcspsa-ll-file
-
 # cg2900
 PRODUCT_PACKAGES += \
    ste-cg29xx_ctrl
@@ -68,12 +59,8 @@ PRODUCT_PACKAGES += \
    stercd
 
 PRODUCT_PACKAGES += \
-   libhealthd.montblanc \
-   chargemode \
-   dbus-daemon \
-   watchdog-kicker
+   libhealthd.montblanc
 
 PRODUCT_PACKAGES += \
-   libdbus \
    libarchive \
    libarchive_fe
